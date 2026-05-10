@@ -1,17 +1,4 @@
 
-````md
-# 💰 Personal Expense Tracker with Data Visualization
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Python+Personal+Expense+Tracker;Data+Analysis+%2B+Visualization+Project;CSV+Reports+%2B+Financial+Insights" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-</p>
 
 ---
 
@@ -281,9 +268,6 @@ The project can answer questions like:
 
 **Atharv Vishnudas Bunde**
 Mechatronics Student
-
----
-
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.
