@@ -1,0 +1,27 @@
+
+PERSONAL EXPENSE TRACKER REPORT
+
+Total Spending: ₹60327
+Average Daily Spending: ₹1005.45
+Highest Spending Category: Education
+
+Category-wise Spending:
+Category
+Education        12696
+Bills            10635
+Food             10519
+Shopping          9850
+Travel            9529
+Entertainment     7098
+
+Monthly Spending:
+Month
+2026-01    35114
+2026-02    24022
+2026-03     1191
+
+Payment Method Spending:
+Payment_Method
+Card    29758
+Cash    12188
+UPI     18381
